@@ -14,9 +14,9 @@ function Sidebar() {
         <span className="text-purple-700">Alex </span>
         <span>Marques</span>
       </h3>
-      <p className="px-2 py-1 my-3 bg-gray-200 rounded-full">Web Developer</p>
+      <p className="px-2 py-1 my-3 bg-gray-300 rounded-full">Web Developer</p>
       <a
-        className="flex items-center justify-center px-2 py-1 my-3 bg-gray-200 rounded-full"
+        className="flex items-center justify-center px-2 py-1 my-3 bg-gray-300 rounded-full"
         href=""
         download="name"
       >
@@ -37,7 +37,7 @@ function Sidebar() {
 
       {/* Address */}
       <div
-        className="py-4 my-5 bg-gray-200"
+        className="py-4 my-5 bg-gray-300"
         style={{ marginLeft: "-1rem", marginRight: "-1rem" }}
       >
         <div className="flex items-center justify-center space-x-2">

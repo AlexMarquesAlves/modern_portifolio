@@ -1,7 +1,7 @@
 const index = () => {
   return (
     <div>
-      <h1>Bye bye world</h1>
+      <h1>Hello, under building</h1>
     </div>
   );
 };
